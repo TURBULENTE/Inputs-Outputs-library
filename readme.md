@@ -1,5 +1,7 @@
 # Sensors library
 
+Hi! This is a list of sensors and actuators with examples that together with Lina Bautista we have documented along the years for our Physical Interfaces and Creative Coding classes in several academic institutions. 
+
 
 List of sensors to be used with Arduino, including code and connections. 
 
