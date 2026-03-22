@@ -24,3 +24,7 @@
 - Build the circuit
 - Read the values of the sensor with Arduino
 - Have fun!
+- 
+![1772885861972](https://github.com/user-attachments/assets/15e19117-07e4-468b-8c0c-1bd0ccf3d18c)
+![1772885861991](https://github.com/user-attachments/assets/3459f38e-c4b2-4714-abe2-b559da2dca42)
+![1772885944013](https://github.com/user-attachments/assets/10ae11b3-1e6c-4fe7-8157-c5b98633138f)
